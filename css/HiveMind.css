@@ -1,0 +1,100 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #FAFAF9;
+  color: #1A1A1A;
+  line-height: 1.6;
+  padding-left: 50px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #1A1A1A;
+}
+
+a {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #445B51;
+}
+
+a:hover {
+  color: #52525B;
+}
+
+#back-home {
+    padding-right: 100px;
+}
+
+#info-img-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+#BoyfRENTs-info {
+  flex: 1;
+  min-width: 0;
+  margin-top: 50px;
+  margin-right: 300px;
+  border:#445B51 solid 3px;
+  border-radius: 6px;
+  padding-right: 50px;
+  padding-bottom: 190px;
+  padding-top: 160px;
+  padding-left: 50px;
+  background-color:#FAFAF1;
+}
+
+#BoyfRENTs-profile {
+  margin-top: 50px;
+  border:#445B51 solid 3px;
+  border-radius: 6px;
+  background-color: #FAFAF1;
+}
+
+#pic-text {
+    margin-left: 5px;
+}
+
+#back-home {
+  border-radius: 12px;
+  background: #445B51;
+  color: #FFFFFF;
+  padding: 0.375rem 0.75rem;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  transition: background 0.2s, color 0.2s;
+  margin-top: 0.5rem;
+}
+
+#back-home:hover {
+  background: #E8E7E3;
+  color: #3F3F46;
+}
+
+#visit {
+  border-radius: 12px;
+  background: #445B51;
+  color: #FFFFFF;
+  padding: 0.375rem 0.75rem;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  transition: background 0.2s, color 0.2s;
+  margin-top: 0.5rem;
+}
+
+#visit:hover {
+  background: #E8E7E3;
+  color: #3F3F46;
+}
+
+#boyfRENTs-h1 {
+  padding-bottom: 30px;
+}
