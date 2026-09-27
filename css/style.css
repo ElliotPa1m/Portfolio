@@ -449,3 +449,9 @@ footer p {
   border-radius: 50%;
   border: 2px solid #445B51;
 }
+
+#boyfRENTs-more {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #445B51;
+  padding-bottom: 15px;
+}
