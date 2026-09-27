@@ -5,6 +5,7 @@ body {
   background: #FAFAF9;
   color: #1A1A1A;
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 .container {
@@ -454,4 +455,7 @@ footer p {
   background-color: #FFFFFF;
   border-bottom: 1px solid #445B51;
   padding-bottom: 15px;
+  margin-left: -15px;
+  padding-left: 15px;
+  width: calc(100% + 50px);
 }
