@@ -459,3 +459,7 @@ footer p {
   padding-left: 15px;
   width: calc(100% + 50px);
 }
+
+#dates {
+  font-weight: bold;
+}
